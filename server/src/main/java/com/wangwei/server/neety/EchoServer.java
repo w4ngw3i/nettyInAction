@@ -1,4 +1,4 @@
-package com.wangwei.server;
+package com.wangwei.server.neety;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;

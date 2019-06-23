@@ -1,4 +1,4 @@
-package com.wangwei.server;
+package com.wangwei.server.neety;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
